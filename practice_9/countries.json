@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Україна",
+        "area": 603700,
+        "population": 41000000,
+        "continent": "Європа"
+    },
+    {
+        "name": "Єгипет",
+        "area": 1002450,
+        "population": 104000000,
+        "continent": "Африка"
+    },
+    {
+        "name": "Нігерія",
+        "area": 923769,
+        "population": 206000000,
+        "continent": "Африка"
+    },
+    {
+        "name": "Китай",
+        "area": 9597000,
+        "population": 1400000000,
+        "continent": "Азія"
+    },
+    {
+        "name": "Індія",
+        "area": 3287000,
+        "population": 1380000000,
+        "continent": "Азія"
+    },
+    {
+        "name": "Канада",
+        "area": 9985000,
+        "population": 38000000,
+        "continent": "Америка"
+    },
+    {
+        "name": "Бразилія",
+        "area": 8516000,
+        "population": 213000000,
+        "continent": "Америка"
+    },
+    {
+        "name": "Німеччина",
+        "area": 357000,
+        "population": 83000000,
+        "continent": "Європа"
+    },
+    {
+        "name": "Японія",
+        "area": 377975,
+        "population": 126000000,
+        "continent": "Азія"
+    },
+    {
+        "name": "ПАР",
+        "area": 1219090,
+        "population": 60000000,
+        "continent": "Африка"
+    },
+    {
+        "name": "Литва",
+        "area": 65300,
+        "population": 2800000,
+        "continent": "Європа"
+    }
+]
